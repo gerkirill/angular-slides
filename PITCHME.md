@@ -1,18 +1,33 @@
 
-<span class="menu-title" style="display: none">Hello</span>
-
-### Hello
+### Checklist
 
 Please make sure following is installed:
 - VisualStudioCode
 - Node JS v. 8.x
+- Git
 
 Thx.
 
 Note:
-- maybe also GIT needed?
 - use any IDE you like. I can help with VSC and Webstorm
 - any questions why we need Node JS?
+
+---
+
+### Hello
+
+ - Kirill Gerasimenko | Kyrylo Herasymenko
+ - Web-developer since 2003
+ - Now team lead at Global Logic
+ - 4 projects with Angular JS, 1.5 projects with Angular
+
+---
+
+ ### Course requirements
+
+ - Knowledge of JavaScript
+ - Knowledge of ES6 is a plus, but not mandatory
+ - Good English reading skills
 
 ---
 
@@ -125,6 +140,23 @@ $> ng new my-project
 That's it.
 
 Now let's dive into the code!
+
+---
+
+### What We Just Learnt
+
+<ul>
+  <li class="fragment">Always start with smth. which works</li>
+  <li class="fragment">Set your expectations before coding</li>
+  <li class="fragment">Write as less code as possible</li>
+  <li class="fragment">Compare result with your expectations</li>
+  <li class="fragment">Component is a thing-in-itself</li>
+  <li class="fragment">Content. State. Behavior. Style.</li>
+  <li class="fragment">Components are able to communicate</li>
+  <li class="fragment">Start small, start simple</li>
+  <li class="fragment">Everything big is built from small pieces</li>
+</ul>
+
 
 ---
 
